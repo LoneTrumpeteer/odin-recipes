@@ -1,0 +1,25 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: cornsilk;
+    color: rgb(45, 45, 45);
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    background-color:cadetblue
+}
+
+h2 {
+    font-size: 24px;
+    background-color:tomato
+}
+
+#food-photo {
+    width: 500px;
+}
+
+#ingredients,
+#steps {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
